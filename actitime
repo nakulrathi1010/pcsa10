@@ -1,0 +1,18 @@
+<html>
+      <head>
+				<title> Xpath</title>
+  		</head>
+		<body>
+				<input type="text" value="a">
+				<input type="text" value="b">
+				<input type="button" value="a">
+		</body>
+		</html>
+
+
+we need the text functions
+//input[@type='text']
+we need the buttons
+//input[@type='button']
+we need the A value
+//input[@value='a']
