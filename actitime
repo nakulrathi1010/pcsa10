@@ -13,6 +13,6 @@
 we need the text functions
 //input[@type='text']
 we need the buttons
-//input[@type='button']
+//input[@type='button']dd
 we need the A value
 //input[@value='a']
